@@ -31,8 +31,7 @@ Version 1 completed and hosted
 
 Version 2 Progress: 50%
 
-This is a cook book website which specializes in daily news activities. The website provides daily news updates, regular news in each category, and a user-friendly experience.
-
+A food recipes website where you can easily explore the food.It has detailed procedure of the recipe, ingredients list and recipe video also We have done this project using Java script,css,and json.
 We have done this project and tried to manipulate DOM elements, style using CSS, and make the website more dynamic and responsive. With my efforts and the technology stack that I have learned till Unit-4 in the Masai School, I am able to design the whole website with some functionalities & features.
 
 # Technology Stack Used 🌟
