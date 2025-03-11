@@ -12,20 +12,17 @@ For detailed documentation, refer to [Project Documentation](https://docs.google
 For detailed project Documentation , refer to [Documentation](https://drive.google.com/drive/folders/1q4cBnR7-gqSAas8jMemSVQTDPkP5GdGW?usp=drive_link).
 ### Demo video
 for Detailed Demo video , refer to [project Demo video](https://drive.google.com/file/d/15hjhCu5zs0FDU6JJ0PCjsmezMb1VmBX4/view?usp=drive_link).
-J.Pooja
-[Email](@gmail.com)
+SJ.Swetha
+[Email]( swethasj82@gmail.com)
 
-A.Nivetha
-[Email](jknivi078@gmail.com)
+M.Malathi
+[Email](malathi.muthu2306@gmail.com)
 
-M.Susithra
-[Email](susithramohan1314@gmail.com)
+J.Joan of arc
+[Email](joanofarc2713@gmail.com)
 
-D.Vijayalakshmi
-[Email](viji11282004@gmail.com)
-
-S.Manisha
-[Email](manishasubash7358@gmail.com)
+AV.Ezhil ral
+[Email](ezhilral83@gmail.com)
 
 **Progress:**
 
