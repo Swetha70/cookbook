@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# Cook book
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# COOK BOOK REACT APP
 
-## Available Scripts
+-----
+### Version 1 : 
+Project: Cook book website with complete authentication made using React.js
+### Documentation
+For detailed documentation, refer to [Project Documentation](https://docs.google.com/document/d/1aS8AmhwelPTMWv3q_d013ghG8fFIe2eR/edit?usp=drive_link&ouid=113165599067956915795&rtpof=true&sd=true).
 
-In the project directory, you can run:
+### Documentation
+For detailed project Documentation , refer to [Documentation](https://drive.google.com/drive/folders/1q4cBnR7-gqSAas8jMemSVQTDPkP5GdGW?usp=drive_link).
+### Demo video
+for Detailed Demo video , refer to [project Demo video](https://drive.google.com/file/d/15hjhCu5zs0FDU6JJ0PCjsmezMb1VmBX4/view?usp=drive_link).
+J.Pooja
+[Email](@gmail.com)
 
-### `npm start`
+A.Nivetha
+[Email](jknivi078@gmail.com)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+M.Susithra
+[Email](susithramohan1314@gmail.com)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+D.Vijayalakshmi
+[Email](viji11282004@gmail.com)
 
-### `npm test`
+S.Manisha
+[Email](manishasubash7358@gmail.com)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Progress:**
 
-### `npm run build`
+Version 1 completed and hosted
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Version 2 Progress: 50%
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This is a cook book website which specializes in daily news activities. The website provides daily news updates, regular news in each category, and a user-friendly experience.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+We have done this project and tried to manipulate DOM elements, style using CSS, and make the website more dynamic and responsive. With my efforts and the technology stack that I have learned till Unit-4 in the Masai School, I am able to design the whole website with some functionalities & features.
 
-### `npm run eject`
+# Technology Stack Used 🌟
+* HTML
+* React.js
+* CSS
+* JavaScript
+* News API
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+For storing user data, I used localStorage & JSON-Server.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### How to run the Project
+### Install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Follow the following steps to get the development environment running.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* Clone repository from GitHub
 
-## Learn More
+  ```bash
+  git clone https://github.com/poojamanjula/crypto-verse.git
+  ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   _OR USING SSH_
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  ```bash
+  git clone git@github.com:poojamanjula/crypto-verse.git
+  ```
 
-### Code Splitting
+* Install node modules
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+   ```bash
+   npm install
+   ```
 
-### Analyzing the Bundle Size
+### Starting front-end servers
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* Build application
 
-### Making a Progressive Web App
+  ```bash
+  npm start
+  ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
